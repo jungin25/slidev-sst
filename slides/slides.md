@@ -23,6 +23,10 @@ mdc: true
 ### Kookmin University
 
 ---
+src: ./pages/about-slidev.md
+--- 
+
+---
 src: ./pages/using-git.md
 --- 
 
